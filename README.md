@@ -12,4 +12,4 @@ The main idea is:
 
 [![Made with Python](https://img.shields.io/badge/Made%20with%20-Python-red?style=for-the-badge&logo=python)](http://www.python.org/)
 [![Made with OpenCV](https://img.shields.io/badge/Made%20with%20-openCv?style=for-the-badge&logo=openCV)](https://opencv.org/)
-[![Made with OpenCV](https://img.shields.io/badge/Made%20with%20-MediaPipe?style=for-the-badge&logo=MediaPipe)](https://mediapipe.dev/)
+[![Made with OpenCV](https://img.shields.io/badge/Made%20with%20-Mediapipe?style=for-the-badge&logo=Mediapipe)](https://mediapipe.dev/)
