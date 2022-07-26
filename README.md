@@ -12,4 +12,4 @@ to watch the demo of the program press
 
 
 [![Made with Python](https://img.shields.io/badge/Made%20with%20-Python-red?style=for-the-badge&logo=python)](http://www.python.org/)
-[![Made with Python](https://img.shields.io/badge/Made%20with%20-openCv?style=for-the-badge&logo=openCV)](https://opencv.org/)
+[![Made with OpenCV](https://img.shields.io/badge/Made%20with%20-openCv?style=for-the-badge&logo=openCV)](https://opencv.org/)
